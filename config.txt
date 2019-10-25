@@ -1,0 +1,21 @@
+{
+  "timeStamp": 1572020113389,
+  "version": "1.23.0",
+  "selectedFilterLists": [
+    "user-filters",
+    "assets.json",
+    "public_suffix_list.dat",
+    "ublock-resources",
+    "ublock-filters",
+    "ublock-badware",
+    "ublock-privacy",
+    "ublock-abuse",
+    "ublock-unbreak",
+    "easylist",
+    "easyprivacy",
+    "malware-0",
+    "malware-1",
+    "plowe-0",
+    "DEU-0"
+  ]
+}

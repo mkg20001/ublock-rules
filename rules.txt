@@ -1,0 +1,22 @@
+! GDRP/Cookie Banners
+
+time.com##.gdpr.component
+
+www.asciitable.com###ez-cookie-dialog-wrapper
+
+www.heute.at###apa-consent-dialog-one
+www.heute.at##.apa-consent-wrapper.apa-consent-reset
+
+! Paywall/Premium ads
+
+www.wired.com##.paywall-modal--show.paywall-modal > .paywall-modal__overlay
+www.wired.com##.paywall-bar__expanded
+www.wired.com##.paywall-bar--expanded.paywall-bar-failsafe
+
+minecraft.gamepedia.com###siderail_minecraft_gamepedia
+
+calendar.google.com##.zoom-free-tooltip > div
+
+! Annoyances
+
+##.ytp-pause-overlay
