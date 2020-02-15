@@ -7,6 +7,8 @@ www.asciitable.com###ez-cookie-dialog-wrapper
 www.heute.at###apa-consent-dialog-one
 www.heute.at##.apa-consent-wrapper.apa-consent-reset
 
+business.paypal.com###gdprCookieBanner
+
 ! Paywall/Premium ads
 
 www.wired.com##.paywall-modal--show.paywall-modal > .paywall-modal__overlay
